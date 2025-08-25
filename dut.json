@@ -1,0 +1,26 @@
+[
+    {
+        "name": "device-1",
+        "worker": null
+    },
+    {
+        "name": "device-2",
+        "worker": null
+    },
+    {
+        "name": "device-3",
+        "worker": null
+    },
+    {
+        "name": "device-4",
+        "worker": null
+    },
+    {
+        "name": "device-5",
+        "worker": null
+    },
+    {
+        "name": "device-6",
+        "worker": null
+    }
+]
